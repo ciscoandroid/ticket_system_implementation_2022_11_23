@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techbidia_ticket_system_CRUD", "Techbidia_ticket_system_CRUD\Techbidia_ticket_system_CRUD.csproj", "{62FF94EB-85FC-4CC1-9B35-8FBC8E19E43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FF94EB-85FC-4CC1-9B35-8FBC8E19E43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FF94EB-85FC-4CC1-9B35-8FBC8E19E43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FF94EB-85FC-4CC1-9B35-8FBC8E19E43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FF94EB-85FC-4CC1-9B35-8FBC8E19E43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B79CC9B-0CF7-4C61-8209-D8AEC45E29B6}
+	EndGlobalSection
+EndGlobal
